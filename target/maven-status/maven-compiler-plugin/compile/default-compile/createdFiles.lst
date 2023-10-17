@@ -1,0 +1,6 @@
+com\webflux\validation\controller\RegistrationController.class
+com\webflux\validation\config\MessageConfig.class
+com\webflux\validation\service\UserService.class
+com\webflux\validation\RequestBodyValidationApplication.class
+com\webflux\validation\model\UserDto.class
+com\webflux\validation\exceptionhandling\ValidationHandler.class
